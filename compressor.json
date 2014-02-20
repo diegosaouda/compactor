@@ -1,0 +1,17 @@
+{
+	"options": {
+		"combine": "false",
+		"combined_filename": "metac.package",
+		"temp_directory": "/tmp",
+		"yuicompressor": "yuicompressor-2.4.8.jar"
+	},
+	
+    "files": [
+		 "/home/forseti/metac/public/template/academico/css/validationEngine.jquery.css",
+		 "/home/forseti/metac/public/template/academico/css/testimonials-widget.css",
+		 "/home/forseti/metac/public/template/academico/css/normalize.css",
+		 
+		 "/home/forseti/metac/public/template/academico/js/jquery.js",
+		 "/home/forseti/metac/public/template/academico/js/jquery.alerts.js"
+	]
+}
